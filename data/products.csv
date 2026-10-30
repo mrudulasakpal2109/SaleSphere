@@ -1,0 +1,61 @@
+Product_ID,Product_Name,Category_ID,Category,Subcategory,Brand,Product_Type,Unit_Price,Cost_Price,Discount_Percentage,Season,Product_Status,Created_At,Updated_At
+101,Silk Floral Wrap Dress,10,Women,Dresses,Aura London,Apparel,2499.0,1100.0,10,Spring,Active,2023-01-01 00:00:00,2025-01-15 10:30:00
+102,Pleated Chiffon Midi Dress,10,Women,Dresses,Aura London,Apparel,2999.0,1350.0,15,Summer,Active,2023-01-01 00:00:00,2025-01-15 10:30:00
+103,Embroidered Anarkali Kurti,10,Women,Ethnic Wear,Salesphere Luxe,Ethnic,1899.0,850.0,20,Festive/Autumn,Active,2023-01-01 00:00:00,2025-01-15 10:30:00
+104,Banarasi Silk Festive Saree,10,Women,Ethnic Wear,Salesphere Luxe,Ethnic,4599.0,2100.0,10,Festive/Autumn,Active,2023-01-01 00:00:00,2025-01-15 10:30:00
+105,Casual Ruffled Cotton Blouse,10,Women,Tops & Shirts,UrbanThread,Apparel,1299.0,580.0,5,Summer,Active,2023-01-01 00:00:00,2025-01-15 10:30:00
+106,Oversized Cable-Knit Sweater,10,Women,Sweaters & Knits,NeoClassic,Winterwear,2199.0,980.0,10,Winter,Active,2023-01-01 00:00:00,2025-01-15 10:30:00
+107,High-Rise Skinny Fit Jeans,10,Women,Bottoms,UrbanThread,Denim,1999.0,890.0,15,All-Season,Active,2023-01-01 00:00:00,2025-01-15 10:30:00
+108,Tailored Linen Wide-Leg Trousers,10,Women,Bottoms,NeoClassic,Apparel,1799.0,800.0,0,Summer,Active,2023-01-01 00:00:00,2025-01-15 10:30:00
+109,Quilted Puffer Winter Jacket,10,Women,Outerwear,NeoClassic,Outerwear,3499.0,1600.0,25,Winter,Active,2023-01-01 00:00:00,2025-01-15 10:30:00
+110,Seamless Breathable Yoga Leggings,10,Women,Activewear,UrbanThread,Sportswear,1499.0,650.0,10,All-Season,Active,2023-01-01 00:00:00,2025-01-15 10:30:00
+111,Lace-Trim Comfort Satin Chemise,10,Women,Loungewear,Aura London,Intimates,1199.0,500.0,10,All-Season,Active,2023-01-01 00:00:00,2025-01-15 10:30:00
+112,A-Line Corduroy Button-Front Skirt,10,Women,Bottoms,UrbanThread,Apparel,1399.0,620.0,5,Autumn,Active,2023-01-01 00:00:00,2025-01-15 10:30:00
+113,Slim Fit Oxford Cotton Shirt,20,Men,Shirts,UrbanThread,Apparel,1699.0,750.0,10,All-Season,Active,2023-01-01 00:00:00,2025-01-15 10:30:00
+114,Classic Linen Mandarin Collar Shirt,20,Men,Shirts,Salesphere Luxe,Apparel,1999.0,880.0,15,Summer,Active,2023-01-01 00:00:00,2025-01-15 10:30:00
+115,Premium Combed Cotton Crewneck T-Shirt,20,Men,T-Shirts & Polos,UrbanThread,Apparel,799.0,320.0,0,All-Season,Active,2023-01-01 00:00:00,2025-01-15 10:30:00
+116,Mercerised Pique Polo T-Shirt,20,Men,T-Shirts & Polos,NeoClassic,Apparel,1299.0,550.0,10,Summer,Active,2023-01-01 00:00:00,2025-01-15 10:30:00
+117,Heritage Raw Indigo Selvedge Jeans,20,Men,Denim Jeans,UrbanThread,Denim,2499.0,1100.0,10,All-Season,Active,2023-01-01 00:00:00,2025-01-15 10:30:00
+118,Stretch Chino Casual Trousers,20,Men,Trousers,NeoClassic,Apparel,1899.0,820.0,15,All-Season,Active,2023-01-01 00:00:00,2025-01-15 10:30:00
+119,Textured Nehru Festive Jacket,20,Men,Ethnic Wear,Salesphere Luxe,Ethnic,2799.0,1250.0,10,Festive/Autumn,Active,2023-01-01 00:00:00,2025-01-15 10:30:00
+120,Tussar Silk Kurta Pajama Set,20,Men,Ethnic Wear,Salesphere Luxe,Ethnic,3299.0,1450.0,20,Festive/Autumn,Active,2023-01-01 00:00:00,2025-01-15 10:30:00
+121,Wool-Blend Structured Blazer,20,Men,Outerwear,Salesphere Luxe,Outerwear,4999.0,2200.0,15,Winter,Active,2023-01-01 00:00:00,2025-01-15 10:30:00
+122,Dry-Fit Moisture Wicking Gym Shorts,20,Men,Activewear,UrbanThread,Sportswear,999.0,420.0,5,All-Season,Active,2023-01-01 00:00:00,2025-01-15 10:30:00
+123,Fleece-Lined Heavyweight Hoodie,20,Men,Sweaters & Knits,UrbanThread,Winterwear,2299.0,1020.0,15,Winter,Active,2023-01-01 00:00:00,2025-01-15 10:30:00
+124,Classic Leather Derby Formal Shoes,20,Men,Footwear,NeoClassic,Footwear,3499.0,1550.0,10,All-Season,Active,2023-01-01 00:00:00,2025-01-15 10:30:00
+125,Boys Graphic Cotton T-Shirt Set,30,Kids,Boys Wear,LittleChamps,Apparel,799.0,320.0,10,Summer,Active,2023-01-01 00:00:00,2025-01-15 10:30:00
+126,Boys Stretch Denim Jogger Jeans,30,Kids,Boys Wear,LittleChamps,Denim,1199.0,500.0,15,All-Season,Active,2023-01-01 00:00:00,2025-01-15 10:30:00
+127,Girls Ruffled Floral Party Frock,30,Kids,Girls Wear,LittleChamps,Apparel,1499.0,620.0,10,Festive/Autumn,Active,2023-01-01 00:00:00,2025-01-15 10:30:00
+128,Girls Cotton Leggings Pack of 3,30,Kids,Girls Wear,LittleChamps,Apparel,899.0,360.0,5,All-Season,Active,2023-01-01 00:00:00,2025-01-15 10:30:00
+129,Unisex Fleece Animal Hooded Jumpsuit,30,Kids,Infants,LittleChamps,Winterwear,1299.0,550.0,10,Winter,Active,2023-01-01 00:00:00,2025-01-15 10:30:00
+130,Infant Organic Cotton Rompers (Pack of 2),30,Kids,Infants,LittleChamps,Apparel,999.0,400.0,10,All-Season,Active,2023-01-01 00:00:00,2025-01-15 10:30:00
+131,Kids Lightweight Rain-Resistant Windbreaker,30,Kids,Outerwear,LittleChamps,Outerwear,1599.0,680.0,15,Monsoon,Active,2023-01-01 00:00:00,2025-01-15 10:30:00
+132,Kids Light-Up Casual Sneakers,30,Kids,Footwear,LittleChamps,Footwear,1799.0,750.0,10,All-Season,Active,2023-01-01 00:00:00,2025-01-15 10:30:00
+133,Signature Tailored Linen Wide-Leg Trousers,10,Women,Bottoms,NeoClassic,Apparel,2189.0,985.05,5,Summer,Active,2023-01-01 00:00:00,2025-01-15 10:30:00
+134,Urban Premium Combed Cotton Crewneck T-Shirt,20,Men,T-Shirts & Polos,UrbanThread,Apparel,1029.0,463.05,20,All-Season,Active,2023-01-01 00:00:00,2025-01-15 10:30:00
+135,Premium Oversized Cable-Knit Sweater,10,Women,Sweaters & Knits,NeoClassic,Winterwear,2399.0,1079.55,0,Winter,Active,2023-01-01 00:00:00,2025-01-15 10:30:00
+136,Urban Oversized Cable-Knit Sweater,10,Women,Sweaters & Knits,NeoClassic,Winterwear,2259.0,1016.55,20,Winter,Active,2023-01-01 00:00:00,2025-01-15 10:30:00
+137,Premium Pleated Chiffon Midi Dress,10,Women,Dresses,Aura London,Apparel,3009.0,1354.05,20,Summer,Active,2023-01-01 00:00:00,2025-01-15 10:30:00
+138,Urban Girls Ruffled Floral Party Frock,30,Kids,Girls Wear,LittleChamps,Apparel,1679.0,755.55,10,Festive/Autumn,Active,2023-01-01 00:00:00,2025-01-15 10:30:00
+139,Monochrome Silk Floral Wrap Dress,10,Women,Dresses,Aura London,Apparel,3049.0,1372.05,15,Spring,Active,2023-01-01 00:00:00,2025-01-15 10:30:00
+140,Vintage Dry-Fit Moisture Wicking Gym Shorts,20,Men,Activewear,UrbanThread,Sportswear,1049.0,472.05,10,All-Season,Active,2023-01-01 00:00:00,2025-01-15 10:30:00
+141,Signature High-Rise Skinny Fit Jeans,10,Women,Bottoms,UrbanThread,Denim,2159.0,971.55,10,All-Season,Active,2023-01-01 00:00:00,2025-01-15 10:30:00
+142,Premium Fleece-Lined Heavyweight Hoodie,20,Men,Sweaters & Knits,UrbanThread,Winterwear,2379.0,1070.55,0,Winter,Active,2023-01-01 00:00:00,2025-01-15 10:30:00
+143,Premium Infant Organic Cotton Rompers (Pack of 2),30,Kids,Infants,LittleChamps,Apparel,1039.0,467.55,15,All-Season,Active,2023-01-01 00:00:00,2025-01-15 10:30:00
+144,Monochrome Textured Nehru Festive Jacket,20,Men,Ethnic Wear,Salesphere Luxe,Ethnic,3229.0,1453.05,10,Festive/Autumn,Active,2023-01-01 00:00:00,2025-01-15 10:30:00
+145,Classic Slim Fit Oxford Cotton Shirt,20,Men,Shirts,UrbanThread,Apparel,1669.0,751.05,5,All-Season,Active,2023-01-01 00:00:00,2025-01-15 10:30:00
+146,Signature Textured Nehru Festive Jacket,20,Men,Ethnic Wear,Salesphere Luxe,Ethnic,3459.0,1556.55,0,Festive/Autumn,Active,2023-01-01 00:00:00,2025-01-15 10:30:00
+147,Vintage Boys Graphic Cotton T-Shirt Set,30,Kids,Boys Wear,LittleChamps,Apparel,949.0,427.05,10,Summer,Active,2023-01-01 00:00:00,2025-01-15 10:30:00
+148,Vintage Lace-Trim Comfort Satin Chemise,10,Women,Loungewear,Aura London,Intimates,1329.0,598.05,10,All-Season,Active,2023-01-01 00:00:00,2025-01-15 10:30:00
+149,Premium Casual Ruffled Cotton Blouse,10,Women,Tops & Shirts,UrbanThread,Apparel,1559.0,701.55,20,Summer,Active,2023-01-01 00:00:00,2025-01-15 10:30:00
+150,Urban Mercerised Pique Polo T-Shirt,20,Men,T-Shirts & Polos,NeoClassic,Apparel,1479.0,665.55,10,Summer,Active,2023-01-01 00:00:00,2025-01-15 10:30:00
+151,Classic Premium Combed Cotton Crewneck T-Shirt,20,Men,T-Shirts & Polos,UrbanThread,Apparel,909.0,409.05,0,All-Season,Active,2023-01-01 00:00:00,2025-01-15 10:30:00
+152,Monochrome Premium Combed Cotton Crewneck T-Shirt,20,Men,T-Shirts & Polos,UrbanThread,Apparel,829.0,373.05,10,All-Season,Active,2023-01-01 00:00:00,2025-01-15 10:30:00
+153,Vintage Boys Stretch Denim Jogger Jeans,30,Kids,Boys Wear,LittleChamps,Denim,1209.0,544.05,20,All-Season,Active,2023-01-01 00:00:00,2025-01-15 10:30:00
+154,Urban Wool-Blend Structured Blazer,20,Men,Outerwear,Salesphere Luxe,Outerwear,5749.0,2587.05,15,Winter,Active,2023-01-01 00:00:00,2025-01-15 10:30:00
+155,Urban Infant Organic Cotton Rompers (Pack of 2),30,Kids,Infants,LittleChamps,Apparel,1089.0,490.05,5,All-Season,Active,2023-01-01 00:00:00,2025-01-15 10:30:00
+156,Classic Heritage Raw Indigo Selvedge Jeans,20,Men,Denim Jeans,UrbanThread,Denim,2859.0,1286.55,20,All-Season,Active,2023-01-01 00:00:00,2025-01-15 10:30:00
+157,Signature Kids Light-Up Casual Sneakers,30,Kids,Footwear,LittleChamps,Footwear,2189.0,985.05,0,All-Season,Active,2023-01-01 00:00:00,2025-01-15 10:30:00
+158,Classic Seamless Breathable Yoga Leggings,10,Women,Activewear,UrbanThread,Sportswear,1529.0,688.05,15,All-Season,Active,2023-01-01 00:00:00,2025-01-15 10:30:00
+159,Heritage Casual Ruffled Cotton Blouse,10,Women,Tops & Shirts,UrbanThread,Apparel,1439.0,647.55,15,Summer,Active,2023-01-01 00:00:00,2025-01-15 10:30:00
+160,Premium Heritage Raw Indigo Selvedge Jeans,20,Men,Denim Jeans,UrbanThread,Denim,3099.0,1394.55,0,All-Season,Active,2023-01-01 00:00:00,2025-01-15 10:30:00
